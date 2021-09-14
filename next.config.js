@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    backendURL: 'https://sheltered-springs-23049.herokuapp.com',
+    backendURL: 'https://lit-wildwood-27786.herokuapp.com',
     frontendURL: 'https://shareitbuddy.vercel.app'
   }
 
